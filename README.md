@@ -1,2 +1,2 @@
 # sdc
-SDC project site
+smartdigitalconnect.github.io
